@@ -1,0 +1,109 @@
+ /* html{
+        scroll-snap-align: unset;
+    }
+
+*/
+
+#menu {
+display: flex;
+background-color:rgba(255, 0, 0, 0.555);
+margin:0;
+margin-top: -3.5rem;
+margin-left: 45rem;
+}
+
+#menu li, a:link {
+    color:white;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    
+}
+
+
+
+
+.logo{
+margin:auto;
+    width:6rem;
+    height:6rem;
+}
+.top{
+  
+    background-color:rgba(255, 0, 0, 0.836);
+   
+    
+}
+
+.centralize{
+
+    margin: auto;
+    text-align: center;
+}
+body{
+    margin: 0;
+    font-family:  'Roboto', sans-serif;
+    
+
+
+}
+
+
+
+
+
+
+
+
+#topmenu li:first-child {
+margin-right:50%;
+
+}
+.section1{
+display: flex;
+height: 100vh;
+background-color: rgba(255, 0, 0, 0.685);
+
+}
+.section2{
+display: flex;
+background-color: white;
+width: 30vh;
+}
+.imagemprojeto{
+
+width: vh;
+height: vh;
+padding-left: px;
+}
+.section2{
+display: flex;
+height: 33vh;
+background-color:white;   
+}
+/*.section3{
+display: flex;
+height: 100vh;
+background-color:beige;   
+}
+*/
+footer{
+background-color: black;
+padding: 30px;
+color: white;
+}
+
+.botaovermelho{
+background-color: #c64e63;
+border-radius: 5px;
+color: white;
+padding: 10px;
+font-family:  'Roboto', sans-serif;
+
+}
+.fotoperfil{
+
+border-radius: 60%;
+
+}
+

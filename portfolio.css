@@ -6,7 +6,7 @@
 
 #menu {
 display: flex;
-background-color:rgba(255, 0, 0, 0.555);
+background-color:rgb(150, 6, 126);
 margin:0;
 margin-top: -3.5rem;
 margin-left: 45rem;
@@ -30,7 +30,7 @@ margin:auto;
 }
 .top{
   
-    background-color:rgba(255, 0, 0, 0.836);
+    background-color:rgb(150, 6, 126);
    
     
 }
@@ -62,14 +62,10 @@ margin-right:50%;
 .section1{
 display: flex;
 height: 100vh;
-background-color: rgba(255, 0, 0, 0.685);
+background-color: rgb(153, 22, 230);
 
 }
-.section2{
-display: flex;
-background-color: white;
-width: 30vh;
-}
+
 .imagemprojeto{
 
 width: vh;
@@ -79,7 +75,7 @@ padding-left: px;
 .section2{
 display: flex;
 height: 33vh;
-background-color:white;   
+background-color: rgb(174, 49, 247);
 }
 /*.section3{
 display: flex;
@@ -93,9 +89,8 @@ padding: 30px;
 color: white;
 }
 
-.botaovermelho{
-background-color: #c64e63;
-border-radius: 5px;
+.botao{
+background-color: rgb(150, 6, 126);
 color: white;
 padding: 10px;
 font-family:  'Roboto', sans-serif;
